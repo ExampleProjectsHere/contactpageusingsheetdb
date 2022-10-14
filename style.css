@@ -45,3 +45,12 @@
     width: 7%;
     margin: 10px;
 }
+
+@media only screen and (max-width: 600px) {
+    .input-type{
+        width: 80%;
+    }
+    .btn{
+        width: 20%;
+    }
+  }
